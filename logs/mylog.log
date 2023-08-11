@@ -1,0 +1,72 @@
+[INFO ] 2023-06-22 16:17:13.695 [main] StepDef - browser lunch
+[INFO ] 2023-06-22 16:17:15.256 [main] StepDef - open url
+[INFO ] 2023-06-22 16:17:15.887 [main] StepDef - enter email and password
+[INFO ] 2023-06-22 16:17:19.108 [main] StepDef - click on login button
+[INFO ] 2023-06-22 16:17:19.137 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2023-06-22 16:17:19.294 [main] StepDef - customer menu clicked
+[INFO ] 2023-06-22 16:17:22.671 [main] StepDef - customer menu item clicked
+[INFO ] 2023-06-22 16:17:26.155 [main] StepDef - clicked on add new button.
+[INFO ] 2023-06-22 16:17:26.169 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2023-06-22 16:17:28.362 [main] StepDef - customer information entered
+[INFO ] 2023-06-22 16:17:30.158 [main] StepDef - clicked on save button
+[INFO ] 2023-06-22 16:17:30.394 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2023-06-22 16:17:34.014 [main] StepDef - browser lunch
+[INFO ] 2023-06-22 16:17:34.804 [main] StepDef - open url
+[INFO ] 2023-06-22 16:17:35.307 [main] StepDef - enter email and password
+[INFO ] 2023-06-22 16:17:37.671 [main] StepDef - click on login button
+[INFO ] 2023-06-22 16:17:42.841 [main] StepDef - browser lunch
+[INFO ] 2023-06-22 16:17:44.280 [main] StepDef - open url
+[INFO ] 2023-06-22 16:17:44.907 [main] StepDef - enter email and password
+[INFO ] 2023-06-22 16:17:48.073 [main] StepDef - click on login button
+[INFO ] 2023-06-22 16:17:53.387 [main] StepDef - browser lunch
+[INFO ] 2023-06-22 16:17:54.851 [main] StepDef - open url
+[INFO ] 2023-06-22 16:17:55.333 [main] StepDef - enter email and password
+[INFO ] 2023-06-22 16:17:57.478 [main] StepDef - click on login button
+[INFO ] 2023-07-27 16:25:49.263 [main] StepDef - browser lunch
+[INFO ] 2023-07-27 16:25:50.613 [main] StepDef - open url
+[INFO ] 2023-07-27 16:25:51.001 [main] StepDef - enter email and password
+[INFO ] 2023-07-27 16:25:54.445 [main] StepDef - click on login button
+[INFO ] 2023-07-27 16:25:54.643 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2023-07-27 16:25:54.805 [main] StepDef - customer menu clicked
+[INFO ] 2023-07-27 16:25:59.959 [main] StepDef - customer menu item clicked
+[INFO ] 2023-07-27 16:26:08.705 [main] StepDef - clicked on add new button.
+[INFO ] 2023-07-27 16:26:08.747 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2023-07-27 16:26:10.214 [main] StepDef - customer information entered
+[INFO ] 2023-07-27 16:26:11.766 [main] StepDef - clicked on save button
+[INFO ] 2023-07-27 16:26:11.970 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2023-07-27 16:26:15.466 [main] StepDef - browser lunch
+[INFO ] 2023-07-27 16:26:16.802 [main] StepDef - open url
+[INFO ] 2023-07-27 16:26:17.168 [main] StepDef - enter email and password
+[INFO ] 2023-07-27 16:26:21.686 [main] StepDef - click on login button
+[INFO ] 2023-07-27 16:26:26.503 [main] StepDef - browser lunch
+[INFO ] 2023-07-27 16:26:27.157 [main] StepDef - open url
+[INFO ] 2023-07-27 16:26:27.523 [main] StepDef - enter email and password
+[INFO ] 2023-07-27 16:26:29.725 [main] StepDef - click on login button
+[INFO ] 2023-07-27 16:26:34.403 [main] StepDef - browser lunch
+[INFO ] 2023-07-27 16:26:35.732 [main] StepDef - open url
+[INFO ] 2023-07-27 16:26:36.113 [main] StepDef - enter email and password
+[INFO ] 2023-07-27 16:26:38.936 [main] StepDef - click on login button
+[INFO ] 2023-07-31 12:03:49.530 [main] StepDef - browser lunch
+[INFO ] 2023-07-31 12:03:51.013 [main] StepDef - open url
+[INFO ] 2023-07-31 12:03:51.411 [main] StepDef - enter email and password
+[INFO ] 2023-07-31 12:03:54.080 [main] StepDef - click on login button
+[INFO ] 2023-07-31 12:03:54.145 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2023-07-31 12:03:54.250 [main] StepDef - customer menu clicked
+[INFO ] 2023-07-31 12:04:00.118 [main] StepDef - customer menu item clicked
+[INFO ] 2023-07-31 12:04:06.072 [main] StepDef - clicked on add new button.
+[INFO ] 2023-07-31 12:04:06.113 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2023-07-31 12:04:07.482 [main] StepDef - customer information entered
+[INFO ] 2023-07-31 12:04:09.308 [main] StepDef - clicked on save button
+[INFO ] 2023-07-31 12:04:09.461 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2023-07-31 12:04:14.071 [main] StepDef - browser lunch
+[INFO ] 2023-07-31 12:04:15.612 [main] StepDef - open url
+[INFO ] 2023-07-31 12:04:16.050 [main] StepDef - enter email and password
+[INFO ] 2023-07-31 12:04:19.774 [main] StepDef - click on login button
+[INFO ] 2023-07-31 12:04:26.046 [main] StepDef - browser lunch
+[INFO ] 2023-07-31 12:04:27.521 [main] StepDef - open url
+[INFO ] 2023-07-31 12:04:27.927 [main] StepDef - enter email and password
+[INFO ] 2023-07-31 12:04:29.999 [main] StepDef - click on login button
+[INFO ] 2023-07-31 12:04:35.956 [main] StepDef - browser lunch
+[INFO ] 2023-07-31 12:04:36.575 [main] StepDef - open url
+[INFO ] 2023-07-31 12:04:36.949 [main] StepDef - enter email and password
+[INFO ] 2023-07-31 12:04:38.999 [main] StepDef - click on login button
